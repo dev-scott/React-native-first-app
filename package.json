@@ -9,10 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/georama": "^0.2.2",
     "expo": "~47.0.12",
+    "expo-splash-screen": "^0.17.5",
     "expo-status-bar": "~1.4.2",
+    "nativewind": "^2.0.11",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-wind": "^1.2.0",
+    "tailwindcss-react-native": "^1.7.10"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
